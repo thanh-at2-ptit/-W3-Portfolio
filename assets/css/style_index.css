@@ -1,0 +1,15 @@
+body {
+    background-color: rgba(128,128,128,0.1) !important; 
+}
+
+.breadcrumb-item {
+    margin-left: 5px;
+}
+
+.breadcrumb-item::before {
+    content: ""!important;
+}
+
+.img-row {
+    height: 400px;
+}
